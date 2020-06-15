@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "FireWorkApp"
+rootProject.name = "My Application"
